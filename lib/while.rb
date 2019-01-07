@@ -4,3 +4,4 @@ def using_while
     puts levitation_force
     levitation_force += 1
   end
+end
